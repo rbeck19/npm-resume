@@ -1,0 +1,17 @@
+{
+    "name": "Ryan Beck",
+    "website": "https://github.com/rbeck19",
+    "linkedin": "https://www.linkedin.com/in/beck-ryan",
+    "github": "rbeck19",
+    "email": "ryan.beck219@gmail.com",
+    "resume": "https://github.com/SEIR-Boston/npm-resume-rbeck19.git",
+    "proficientTechnologies": [
+        "HTML",
+        "CSS",
+        "Javascript"
+    ],
+    "otherSkills": [
+        "Carpentry",
+        "Plumbing"
+    ]
+}
