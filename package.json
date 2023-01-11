@@ -5,7 +5,7 @@
   "your-command-here": "./index.js"
 },
   "name": "rbeck-resume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resume",
   "main": "index.js",
   "scripts": {
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SEIR-Boston/npm-resume-rbeck19.git"
+    "url": "https://github.com/rbeck19/npm-resume"
   },
   "author": "Ryan Beck",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SEIR-Boston/npm-resume-rbeck19/issues"
+    "url": "https://github.com/rbeck19/npm-resume"
   },
-  "homepage": "https://github.com/SEIR-Boston/npm-resume-rbeck19#readme"
+  "homepage": "https://github.com/rbeck19/npm-resume"
 }
 
